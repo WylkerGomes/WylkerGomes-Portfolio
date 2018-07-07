@@ -1,14 +1,20 @@
-
-
-.container{
-
-    
+body{
     display: flex;
 /*    flex-wrap: wrap;*/
     justify-content: center;
+/*    align-content: center;*/
+
+}
+
+.container{
+
+
+    display: flex;
+    /*    flex-wrap: wrap;*/
+    justify-content: center;
     align-content: center;
-    
-    
+
+
     background-color: aqua;
 
     width: 1220px;
@@ -25,7 +31,7 @@
     height: 600px;
     padding: ;
     margin: 5px;
-    
+
     align-self: center;
 
 
